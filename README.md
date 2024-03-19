@@ -1,1 +1,3 @@
-# SEM-5-Project-Tourist Buddy
+Tourist_Buddy
+
+Introducing 'Tourist Buddy', the ultimate Tourist Guide App for your devices – your virtual travel companion! Bid farewell to conventional guidebooks and embrace this convenient mobile application that promises a seamless tourism experience. Discover renowned destinations effortlessly as the app provides insightful narrations about their histories. With location-based features and seamless integration with Google Maps, you can effortlessly access comprehensive information, captivating visuals, and even calculate distances between attractions while on the move. Embrace the future of travel with 'Tourist Buddy' on your smartphone or tablet.
