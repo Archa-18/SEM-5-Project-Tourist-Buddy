@@ -1,1 +1,1 @@
-# SEM-5-Project-Tourist-Buddy
+# SEM-5-Project-Tourist Buddy
